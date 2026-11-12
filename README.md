@@ -1,3 +1,5 @@
+![Black Flag Resynced 繁體中文・香港｜柔軟的蝦](assets/readme-cover-zh-hk.png)
+
 # Black Flag Resynced 繁中香港包
 
 作者：**柔軟的蝦** · 語言：香港繁體中文 · 版本：**2026.11.11-rc2**
