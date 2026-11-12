@@ -22,6 +22,7 @@
   "new_runtime_game_tested": false,
   "r2_runtime_user_confirmed": true,
   "formal_game_modified": false,
-  "remote_published": false,
-  "source_sha256": "4f9ee2807b5460ed44ffbd5022e7d7840c087a0aabadf87d9be9226795c315f1"
+  "source_sha256": "4f9ee2807b5460ed44ffbd5022e7d7840c087a0aabadf87d9be9226795c315f1",
+  "remote_publication_at_build": false,
+  "status_snapshot": "offline validation before GitHub publication"
 }
