@@ -1,0 +1,422 @@
+[
+  {
+    "example": 1,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:21",
+    "classification": "語義錯漏",
+    "reason": "as I live and breathe 是驚訝認出對方；Muzzle 在此指鬍子，不是同呼吸或說話氣勢。"
+  },
+  {
+    "example": 2,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:37",
+    "classification": "語義錯漏",
+    "reason": "stood for something 指有信念；不是斷言曾服膺真理，也不是有勇氣去犯錯。"
+  },
+  {
+    "example": 3,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:51",
+    "classification": "語義錯漏",
+    "reason": "drink damnation 是舉杯詛咒，不是喝下一種「毒咒之酒」；quarter 在戰鬥中指饒命。"
+  },
+  {
+    "example": 4,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:84",
+    "classification": "語義錯漏",
+    "reason": "ransom 是贖金，不是賞金；原句亦沒有明說已先交款。"
+  },
+  {
+    "example": 5,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:129",
+    "classification": "補足及精確化",
+    "reason": "補回並列兵器 Steel，細分原譯概括的武力。"
+  },
+  {
+    "example": 6,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:219",
+    "classification": "補足及精確化",
+    "reason": "把「保存下來」改為更貼合赦免語境的「撐過去」。"
+  },
+  {
+    "example": 7,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:318",
+    "classification": "語義錯漏",
+    "reason": "have had enough 表示受夠了，並非有足夠能力對付所有人。"
+  },
+  {
+    "example": 8,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:331",
+    "classification": "補足及精確化",
+    "reason": "選用中性的貨運表述，保留 trafficking 在此處的語境歧義。"
+  },
+  {
+    "example": 9,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:391",
+    "classification": "語義錯漏",
+    "reason": "a damn sight better 是「好得多」，sight 不是遠見。"
+  },
+  {
+    "example": 10,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:440",
+    "classification": "語義錯漏",
+    "reason": "Devil damn 是咒罵，不是魔鬼已把某人帶走；fierce 指兇猛。"
+  },
+  {
+    "example": 11,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:478",
+    "classification": "補足及精確化",
+    "reason": "明示靠近的距離指令。"
+  },
+  {
+    "example": 12,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:488",
+    "classification": "語義錯漏",
+    "reason": "before the mast 指當普通水手，不是「成為某人之前」；privateer 也不是走私者。"
+  },
+  {
+    "example": 13,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:491",
+    "classification": "語義錯漏",
+    "reason": "comes natural to us 指施展起來是天賦，不是經常遇到黑魔法。"
+  },
+  {
+    "example": 14,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:508",
+    "classification": "補足及精確化",
+    "reason": "補回簡短的 Supper「晚餐」標籤。"
+  },
+  {
+    "example": 15,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:622",
+    "classification": "語義錯漏",
+    "reason": "sentiments 是感受；把感受寫成文字，與不可說的過去不同。"
+  },
+  {
+    "example": 16,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:656",
+    "classification": "語義錯漏",
+    "reason": "Past and Present 修飾生物的時間範圍；不是把生命描述為來去匆匆。"
+  },
+  {
+    "example": 17,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:698",
+    "classification": "語義錯漏",
+    "reason": "原句是已打倒大部分敵人，只餘三四個；不是不論敵人有多少。"
+  },
+  {
+    "example": 18,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:734",
+    "classification": "語義錯漏",
+    "reason": "軍艦搭載的 Guns 是炮，不是三十二把手持槍械。"
+  },
+  {
+    "example": 19,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:801",
+    "classification": "語義錯漏",
+    "reason": "wanted by family 是家人盼望其回去，不是被家人厭惡；countrymen 是同胞。"
+  },
+  {
+    "example": 20,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:803",
+    "classification": "語義錯漏",
+    "reason": "save ... for 是把刀劍衝突留給特定對象，不是省去與他們交戰。"
+  },
+  {
+    "example": 21,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:839",
+    "classification": "語義錯漏",
+    "reason": "補回對「寶貝哲學」的嘲諷及「活在世上」與「推動世界」的對比。"
+  },
+  {
+    "example": 22,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:843",
+    "classification": "語義錯漏",
+    "reason": "Retreat 在此是退讓，不是籠統的「出了問題」。"
+  },
+  {
+    "example": 23,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:858",
+    "classification": "語義錯漏",
+    "reason": "stop meeting like this 是不要老在險境中碰面，不是不要再敵視彼此。"
+  },
+  {
+    "example": 24,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:898",
+    "classification": "語義錯漏",
+    "reason": "Here’s to 是祝酒；Clergy、Debt Collectors 分別是教士、收債人，不必是僧侶或高利貸者。"
+  },
+  {
+    "example": 25,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:907",
+    "classification": "語義錯漏",
+    "reason": "if inclined 是有意或有興趣，不是看得起那艘船。"
+  },
+  {
+    "example": 26,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1034",
+    "classification": "語義錯漏",
+    "reason": "losing the Faith of your Crew 是失去船員對自己的信任，不是讓他們失去自由信仰。"
+  },
+  {
+    "example": 27,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1063",
+    "classification": "語義錯漏",
+    "reason": "cut me loose 指結束原有關係、打發離開，不是從未獲准加入。"
+  },
+  {
+    "example": 28,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1116",
+    "classification": "語義錯漏",
+    "reason": "long face 是愁眉苦臉，不是盯着某人看。"
+  },
+  {
+    "example": 29,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1129",
+    "classification": "補足及精確化",
+    "reason": "明示人質換藥的條件，調整人稱表達。"
+  },
+  {
+    "example": 30,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1134",
+    "classification": "語義錯漏",
+    "reason": "補回不到兩個月；took the pardon 是接受赦免，不是哀求對方赦免。"
+  },
+  {
+    "example": 31,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1147",
+    "classification": "語義錯漏",
+    "reason": "I’ll be hanged before ... 表示寧死不降，不是預測投降前會先被處刑。"
+  },
+  {
+    "example": 32,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1221",
+    "classification": "補足及精確化",
+    "reason": "明示親自掌舵的主體，收窄「幫你」帶來的歧義。"
+  },
+  {
+    "example": 33,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1263",
+    "classification": "語義錯漏",
+    "reason": "scoured 在尋寶語境指搜尋搜掠，不是殘骸被海水沖蝕。"
+  },
+  {
+    "example": 34,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1315",
+    "classification": "語義錯漏",
+    "reason": "taken by 表示喜歡、着迷，不只勉強接受；authored 是已親筆寫成。"
+  },
+  {
+    "example": 35,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1372",
+    "classification": "語義錯漏",
+    "reason": "flatter me with your persistence 是對方堅持令自己受寵若驚，不是為自己感到驕傲。"
+  },
+  {
+    "example": 36,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1382",
+    "classification": "補足及精確化",
+    "reason": "把帶有行動暗示的喊話改回稱呼 Lads。"
+  },
+  {
+    "example": 37,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1416",
+    "classification": "語義錯漏",
+    "reason": "Retreat 是退讓，原譯的「大有問題」沒有保留這個判斷。"
+  },
+  {
+    "example": 38,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1580",
+    "classification": "語義錯漏",
+    "reason": "can’t see ... accepting 是不認為對方會接受，並非自己不希望他們接受。"
+  },
+  {
+    "example": 39,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1635",
+    "classification": "補足及精確化",
+    "reason": "把船上貨物的概括表述改為所有財物。"
+  },
+  {
+    "example": 40,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1683",
+    "classification": "補足及精確化",
+    "reason": "把警戒海面的具體表述改為保持警覺。"
+  },
+  {
+    "example": 41,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1698",
+    "classification": "語義錯漏",
+    "reason": "補回新教及虔誠表現這項宗教文化指涉，而非換成泛問為何談起此事。"
+  },
+  {
+    "example": 42,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1752",
+    "classification": "語義錯漏",
+    "reason": "the life we lead 是我們過的生活；lead 在此不是領導其他人。"
+  },
+  {
+    "example": 43,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1810",
+    "classification": "語義錯漏",
+    "reason": "middling take 指收穫一般，不是只有補給品；補回貨艙及藥物印記。"
+  },
+  {
+    "example": 44,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1874",
+    "classification": "語義錯漏",
+    "reason": "After 是在對方企圖殺人之後，原譯「那時候」模糊了先後關係。"
+  },
+  {
+    "example": 45,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1988",
+    "classification": "語義錯漏",
+    "reason": "nothing to do with 是沒有參與或牽涉，不是完全不知道發生了甚麼。"
+  },
+  {
+    "example": 46,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:1993",
+    "classification": "補足及精確化",
+    "reason": "把「老婆孩子」還原為較廣的「家人」。"
+  },
+  {
+    "example": 47,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:2008",
+    "classification": "語義錯漏",
+    "reason": "全城看得到這場鬧劇，不是整個城市已被鬧翻。"
+  },
+  {
+    "example": 48,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:2012",
+    "classification": "補足及精確化",
+    "reason": "明示 additional Doses 的數量擴充含義。"
+  },
+  {
+    "example": 49,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:2023",
+    "classification": "語義錯漏",
+    "reason": "ambition 指野心或抱負，不是能力，也不等於奉獻給組織。"
+  },
+  {
+    "example": 50,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:2031",
+    "classification": "語義錯漏",
+    "reason": "a pain in the arse 是煩人的傢伙，不是身體受了點傷。"
+  },
+  {
+    "example": 51,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:2403",
+    "classification": "語義錯漏",
+    "reason": "natural allies 是天然／天生的盟友，不是回答「當然沒問題」。"
+  },
+  {
+    "example": 52,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:54866",
+    "classification": "語義錯漏",
+    "reason": "as I live and breathe 是驚訝認人，不是報告自己還活得好好的。"
+  },
+  {
+    "example": 53,
+    "kind": "dialogue",
+    "key": "BF0000000007E189:5845",
+    "classification": "語義錯漏",
+    "reason": "Move it 是催促快動；not up here for my health 是「不是來鍛鍊身體」，不是拒絕上去。"
+  },
+  {
+    "example": 54,
+    "kind": "dialogue",
+    "key": "BF0000000007E189:7926",
+    "classification": "語義錯漏",
+    "reason": "coffers 是金庫，不是 coffee 或咖啡豆；句子在比較國庫與自己的肚子。"
+  },
+  {
+    "example": 55,
+    "kind": "dialogue",
+    "key": "BF0729CDCD9BDD13:0",
+    "classification": "語義錯漏",
+    "reason": "purchase 在繩索與攀爬語境指借力、抓握，不是購買繩索。"
+  },
+  {
+    "example": 56,
+    "kind": "dialogue",
+    "key": "BF0000000006E16E:8948",
+    "classification": "語義錯漏",
+    "reason": "scuttled 表示船被弄沉；原譯改成了日夜兼程趕路。"
+  },
+  {
+    "example": 57,
+    "kind": "ui",
+    "key": "AC859EE5EB6D9C4C:0",
+    "classification": "補足及精確化",
+    "reason": "把 canon story 術語精確化為正史劇情。"
+  },
+  {
+    "example": 58,
+    "kind": "ui",
+    "key": "BF1B4AB9866B9E6D:0",
+    "classification": "語義錯漏",
+    "reason": "orphaned by the sea 指因大海而成為孤兒，不只是身處海上孤苦無依；raised 指獲撫養。"
+  },
+  {
+    "example": 59,
+    "kind": "ui",
+    "key": "BF233C5356886491:0",
+    "classification": "語義錯漏",
+    "reason": "原文只說各地商人穿的服裝，沒有加上富商身分象徵的限制。"
+  },
+  {
+    "example": 60,
+    "kind": "ui",
+    "key": "BF2267BBCFF3403C:0",
+    "classification": "補足及精確化",
+    "reason": "明示長袍與鱗甲的內外穿着位置。"
+  }
+]

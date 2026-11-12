@@ -1,0 +1,224 @@
+{
+  "version": "2026.11.11-rc2",
+  "ledger_sha256": "13deed7067261849d96071dc9f215d0f6f25f9a5d9dfa626662debc3c609ebb3",
+  "unit": "unique (kind, key) segment",
+  "total_records": 20873,
+  "paired_targets": 20780,
+  "changed": 11800,
+  "retained": 8980,
+  "unpaired_proposals": 93,
+  "by_kind": {
+    "ui": {
+      "edit": 3209,
+      "keep": 8687,
+      "missing_target": 27
+    },
+    "dialogue": {
+      "edit": 8591,
+      "missing_target": 66,
+      "keep": 293
+    }
+  },
+  "semantic_examples": {
+    "scope": "README examples 1–60",
+    "total": 60,
+    "categories": {
+      "語義錯漏": 46,
+      "補足及精確化": 14
+    }
+  },
+  "hk_conversion": {
+    "scope": "26 explicit before/after term pairs",
+    "unique_segments": 1902,
+    "occurrences": 2464,
+    "categories": {
+      "用語": 663,
+      "字形": 1025,
+      "譯名": 371
+    },
+    "pairs": [
+      {
+        "category": "用語",
+        "original": "解析度",
+        "revised": "解像度",
+        "segments": 56,
+        "occurrences": 75
+      },
+      {
+        "category": "用語",
+        "original": "控制器",
+        "revised": "手掣",
+        "segments": 54,
+        "occurrences": 54
+      },
+      {
+        "category": "用語",
+        "original": "什麼",
+        "revised": "甚麼",
+        "segments": 525,
+        "occurrences": 588
+      },
+      {
+        "category": "用語",
+        "original": "菁英",
+        "revised": "精英",
+        "segments": 9,
+        "occurrences": 9
+      },
+      {
+        "category": "用語",
+        "original": "蒐集",
+        "revised": "收集",
+        "segments": 12,
+        "occurrences": 14
+      },
+      {
+        "category": "用語",
+        "original": "軟體",
+        "revised": "軟件",
+        "segments": 2,
+        "occurrences": 2
+      },
+      {
+        "category": "用語",
+        "original": "硬體",
+        "revised": "硬件",
+        "segments": 9,
+        "occurrences": 10
+      },
+      {
+        "category": "字形",
+        "original": "計畫",
+        "revised": "計劃",
+        "segments": 77,
+        "occurrences": 96
+      },
+      {
+        "category": "字形",
+        "original": "裡",
+        "revised": "裏",
+        "segments": 682,
+        "occurrences": 807
+      },
+      {
+        "category": "字形",
+        "original": "砲",
+        "revised": "炮",
+        "segments": 296,
+        "occurrences": 329
+      },
+      {
+        "category": "譯名",
+        "original": "拿索",
+        "revised": "拿騷",
+        "segments": 141,
+        "occurrences": 175
+      },
+      {
+        "category": "譯名",
+        "original": "金士頓",
+        "revised": "京斯敦",
+        "segments": 93,
+        "occurrences": 103
+      },
+      {
+        "category": "譯名",
+        "original": "伍德斯．羅傑斯",
+        "revised": "活士．羅渣士",
+        "segments": 26,
+        "occurrences": 30
+      },
+      {
+        "category": "譯名",
+        "original": "詹姆士．奇德",
+        "revised": "占士．奇德",
+        "segments": 27,
+        "occurrences": 27
+      },
+      {
+        "category": "譯名",
+        "original": "查爾斯．范恩",
+        "revised": "查理斯．范恩",
+        "segments": 22,
+        "occurrences": 28
+      },
+      {
+        "category": "譯名",
+        "original": "巴索羅穆．羅伯茲",
+        "revised": "巴索羅繆．羅拔茨",
+        "segments": 21,
+        "occurrences": 21
+      },
+      {
+        "category": "譯名",
+        "original": "卡洛琳．史考特",
+        "revised": "嘉露蓮．史葛",
+        "segments": 9,
+        "occurrences": 9
+      },
+      {
+        "category": "譯名",
+        "original": "朱利安．達卡斯",
+        "revised": "祖利安．杜卡斯",
+        "segments": 14,
+        "occurrences": 14
+      },
+      {
+        "category": "譯名",
+        "original": "亞伯．加旺奧",
+        "revised": "阿貝爾．加爾旺",
+        "segments": 9,
+        "occurrences": 9
+      },
+      {
+        "category": "譯名",
+        "original": "凡斯．崔佛斯",
+        "revised": "萬斯．特拉弗斯",
+        "segments": 9,
+        "occurrences": 9
+      },
+      {
+        "category": "譯名",
+        "original": "喬治",
+        "revised": "佐治",
+        "segments": 14,
+        "occurrences": 16
+      },
+      {
+        "category": "譯名",
+        "original": "巴貝多",
+        "revised": "巴巴多斯",
+        "segments": 15,
+        "occurrences": 23
+      },
+      {
+        "category": "譯名",
+        "original": "斯溫席",
+        "revised": "史雲斯",
+        "segments": 6,
+        "occurrences": 6
+      },
+      {
+        "category": "譯名",
+        "original": "卡地夫",
+        "revised": "卡迪夫",
+        "segments": 4,
+        "occurrences": 4
+      },
+      {
+        "category": "譯名",
+        "original": "西維爾",
+        "revised": "塞維利亞",
+        "segments": 4,
+        "occurrences": 4
+      },
+      {
+        "category": "譯名",
+        "original": "維吉尼亞",
+        "revised": "弗吉尼亞",
+        "segments": 2,
+        "occurrences": 2
+      }
+    ]
+  }
+}
