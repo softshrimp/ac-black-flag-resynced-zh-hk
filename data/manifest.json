@@ -1,0 +1,86 @@
+{
+  "version": "2026.11.11-rc2",
+  "prior_versions": [
+    "2026.11.09",
+    "2026.11.10",
+    "2026.11.10-r2",
+    "2026.11.10-rc1"
+  ],
+  "method": "native-append-repoint",
+  "edited_strings": 11800,
+  "records": 20873,
+  "missing_targets_not_inserted": 93,
+  "runtime_tested": false,
+  "archives": [
+    {
+      "kind": "ui",
+      "file": "DataPC_boot_patch_01.forge",
+      "original_size": 1915453440,
+      "original_sha256": "d2c0a87fd663c154e837350e8b93a00df847f6659dc19d4e96bacd84041620d7",
+      "row_offset": 1915333656,
+      "original_row": "e593532800000000c147806607020000065505006f9c3c6e",
+      "new_row": "00002c7200000000c147806607020000393009006f9c3c6e",
+      "append_offset": 1915486208,
+      "size": 1916141568,
+      "payload_resource": "ui.resource",
+      "payload_length": 602169,
+      "payload_sha256": "1023011729cfc628a20f05d529fcaa501d1be0f8370fdac32c1c3edb11159070",
+      "decoded_sha256": "232373d37f3df26c36379122ae52cadedc0638dbea05d7abb6318abef22348e4",
+      "edited_strings": 3209,
+      "legacy_sizes": [
+        1916076032,
+        1916141568,
+        1916141568,
+        1916141568,
+        1916141568
+      ],
+      "legacy_sha256": [
+        "db10ca3c67678d9c9bdbcd5af7581611af32d701d342001100ed0b19d5148f62",
+        "e02498c30631d0e7547fe45c4937ee8af7bc8ebba090c032913c4adf9fd66648",
+        "390c1db49b06cc8101992226d52d704e71e51a209b91788e3a5b9adea77de644",
+        "396d504c970273c0d2c6d1e689476d64653d97de813592995ee80bde00893e13",
+        "9988aa72258a0f9889a8b5bdb9a98b636ae89ed85c76e738619b7fc67b50830a"
+      ],
+      "sha256": "7453ae57a9ff7f035bba9c0cfa8636de0f8ac46826d0cd972bd77b56fe6604a1"
+    },
+    {
+      "kind": "dialogue",
+      "file": "DataPC_boot.forge",
+      "original_size": 25640534016,
+      "original_sha256": "144d947bd4b84709b891837c1a49893062aa9b79e2cecaf66c15fd884bc70a00",
+      "row_offset": 25638150046,
+      "original_row": "c12c8aac00000000c2478066070200008d0504006f9c3c6e",
+      "new_row": "00004cf805000000c2478066070200006eec05006f9c3c6e",
+      "append_offset": 25640566784,
+      "size": 25640960000,
+      "payload_resource": "dialogue.resource",
+      "payload_length": 388206,
+      "payload_sha256": "ec44ea8680cfe705a70f380d6cea2499b089d55b9baec7d799ada8beee303703",
+      "decoded_sha256": "facf76f92f8b3c3814c595f87b375058fe5285a39c2d1faa59daec8c4ea7838e",
+      "edited_strings": 8591,
+      "legacy_sizes": [
+        25640960000,
+        25641025536,
+        25640960000,
+        25640960000,
+        25640960000
+      ],
+      "legacy_sha256": [
+        "26a9dd9c22a92f46e1342e8aeeeddb48240fe2902d9c025a0e232acdc7a263ba",
+        "748e2ce3ecaaafcceb1a5bdaaa66d6401fe429ef66b8e02a2d43d08de8adebe7",
+        "30c4f6b0243dfb85797fe49051e4a0e42c4a794aad9149ee7c5ad4f0f60eb8e1",
+        "7e9039a40059a37610a4f894ce072c8054708284d21841bd5330edb9319f3cf8",
+        "8395a73c1f04a45c0ae0bf49754e24c9045883f2b224951a89c6646d0cee1c95"
+      ],
+      "sha256": "59cf6ec3e824c8319e992de794328d2c6f98178adb7fb9886eb6f17c3e2d0552"
+    }
+  ],
+  "known_patch02": [
+    "0761b019197d166e2292f7ba184cf2885a1dd66656010aa681aa9c987702d59c",
+    "333fa5d26020029d8af37a35be44c2dbca0aa9956300c3612926163ce469d9b7",
+    "4ceff9ad8be418484bbf23f9d41ddfb82ed36890ba35412852f309098adebcd1",
+    "767d77b30693b806acee458e079f63c4ea75aaf0e59639400ce62cdcc3c67da0",
+    "9d6b891d674e5ab6880d21acab36efd7283358d125d7000423c15b2c330e5426",
+    "e14de7b2c60489d5ed0cb5fa80539c0851439c1e326443bf00f248cbc72f3965"
+  ]
+}

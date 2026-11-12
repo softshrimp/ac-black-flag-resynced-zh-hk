@@ -1,0 +1,7 @@
+/dist/
+/src/*.exe
+/src/sandbox/
+/src/outside-fixture/
+/src/test-results.json
+**/__pycache__/
+*.pyc

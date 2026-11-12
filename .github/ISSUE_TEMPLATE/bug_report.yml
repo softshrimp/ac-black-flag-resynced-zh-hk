@@ -1,0 +1,23 @@
+name: 安裝或文字問題
+description: 回報可重現的安裝、還原或文字問題
+title: "[問題] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 補丁版本
+      placeholder: 2026.11.11-rc2
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 重現步驟及實際結果
+      description: 請說明操作、Windows 版本及有否其他模組。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 錯誤訊息或文字畫面
+      description: 可移除個人路徑；請勿附遊戲封裝、執行檔或存檔。
